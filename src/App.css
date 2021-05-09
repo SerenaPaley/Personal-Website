@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.app  {
+  height: 100vh;
+  background:#8de4fc;
+}
+
+.education  {
+  border: 2px solid black;
+  }
