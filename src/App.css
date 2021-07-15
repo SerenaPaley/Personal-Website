@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,15 +35,53 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.app {
+  min-height: 100vh;
+  background:white;
 }
 
+.serena {
+  color: rgb(47, 9, 80);
+  background: rgb(196, 232, 229);
+  align-items: center;
+}
 
-
-.app  {
+.name {
   height: 100vh;
-  background:#8de4fc;
+  
 }
 
-.education  {
-  border: 2px solid black;
+h1 {
+  font-size: 110px; 
   }
+
+
+.education {
+  background: rgb(196, 232, 229);
+}
+.work {
+  background: rgb(196, 232, 229);
+}
+
+.profilePic {
+  width: 470px;
+  height: 667px;
+  padding: 8px;
+  align-items: center;
+
+}
+
+.projects {
+  border: 2px solid black;
+}
+
+
+
+
+
+
+ 
+
+ 
