@@ -2,20 +2,21 @@ import React from "react";
 import "./App.css";
 import Box from '@material-ui/core/Box';
 import Paper from '@material-ui/core/Paper';
+import YahtzeePro from "./YahtzeePro";
+import Strive from "./Strive";
+import WordUp from "./WordUp";
+
 
 
 function Projects() {
     return (
         <Box p = {1} borderRadius = {16} height = {300} height = "100%">
-            <Paper p = {3}>
-        <div>
-        <h2> Projects</h2>
-        <h3> Summer Project - YahtzeePro</h3>
-        <li> Developed a multiplayer digital Yahtzee game using Java and utilized Git for version control.
-        <li> Built a user interface, including graphical dice that can be individually saved and a scoresheet, using Swing. </li>
-        {/* Github button */}
-        <p>August 2020</p> </li>
-        </div>
+          <YahtzeePro />  
+          <Strive />  
+          <WordUp />  
+
+                
+        
 
         <div>
         <h3> Summer Project - Strive</h3>
@@ -45,7 +46,6 @@ function Projects() {
         <li> Incorporated direction decision making when approaching an intersection.</li>
         <p>July 2019</p> </li>
         </div>
-        </Paper>
         </Box>
     );
     
