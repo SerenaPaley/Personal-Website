@@ -4,16 +4,16 @@ import Box from '@material-ui/core/Box';
 import Paper from '@material-ui/core/Paper';
 import Grid from '@material-ui/core/Grid';
 import Avatar from '@material-ui/core/Avatar';
-import Pic from './redDice.jpeg';
+import Pic from './Shad.png';
 
 
 
-function WordUp() {
+function SmartRobot() {
 
 return (
     
-    <Box p = {1} borderRadius = {16} height = "100%" >
-        
+    <Box p = {1} borderRadius = {16} height = {300} height = "100%">
+       
         <Grid container justifyContent="center"   >
     
     <Grid container item xs={6} justifyContent="center" >
@@ -25,11 +25,12 @@ return (
     </Grid>
     <Grid item xs={6} justifyContent="flex-start">
     <div>
-    <h3 className= "blue">WordUp</h3>
+    <h3 className= "blue"> Smart Robot</h3>
     <br></br>
-    <h3> Personal Project - WordUp</h3>
-    <li> Built a hangman style game in Python and used getpass to ensure the mystery word remains secret.
-    <p>March 2021</p> </li>
+    <h3> Shad Canada Activity - Smart Robot</h3>
+    <li> Programmed a robot to differentiate between black and white to follow a line, using an ultrasonic sensor.
+    <li> Incorporated direction decision making when approaching an intersection.</li>
+    <p>July 2019</p> </li>
     
     </div>
     </Grid>
@@ -42,4 +43,4 @@ return (
 }
 
 
-export default WordUp;
+export default SmartRobot;

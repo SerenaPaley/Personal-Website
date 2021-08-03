@@ -50,7 +50,7 @@ function YahtzeePro() {
 return (
     
     <Box p = {1} borderRadius = {16} height = {300} height = "100%">
-        <Paper p = {3}>
+       
         <Grid container justifyContent="center"   >
     
     <Grid container item xs={6} justifyContent="center" >
@@ -62,7 +62,7 @@ return (
     </Grid>
     <Grid item xs={6} justifyContent="flex-start">
     <div>
-    <h2 className= "blue">YahtzeePro</h2>
+    <h3 className= "blue">YahtzeePro</h3>
     <br></br>
     <h3> Summer Project - YahtzeePro</h3>
     <li> Developed a multiplayer digital Yahtzee game using Java and utilized Git for version control. </li>
@@ -72,7 +72,6 @@ return (
     </div>
     </Grid>
     </Grid>
-    </Paper>
     </Box>
     
 );

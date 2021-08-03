@@ -83,6 +83,10 @@ h1 {
   border: 2px solid black;
 }
 
+.title {
+  color: rgb(26, 130, 194);
+  padding-left: 2%;
+}
 
 
 

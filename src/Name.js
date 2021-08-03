@@ -15,7 +15,7 @@ function Name() {
         <div className = "name">
         <Grid container direction="row"> 
         <Grid item xs={6}>
-        <Box p = {2}>
+        <Box p = {3}>
                 <Paper>
                 <Box p = {5} textAlign = "center">
                     <Serena />

@@ -15,7 +15,9 @@ function App() {
    <div className= "app">
      <TopBar />
      <Name />
+     <h2 className = "title">Education</h2>
      <Education />
+     <h2 className = "title">Projects</h2>
      <Projects />
      <WorkExperience />
 

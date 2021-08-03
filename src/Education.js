@@ -14,7 +14,7 @@ return (
   
     
     <Box p = {1} borderRadius = {16} height = {300} >
-        <Paper p = {2}>
+        
         <Grid container justifyContent="center"  >
     
     <Grid container item xs={6} justifyContent="center">
@@ -26,9 +26,8 @@ return (
     </Grid >
     <Grid item xs={6} justifyContent="flex-start">
     <div>
-    <h2 className= "blue">Education</h2>
     <br></br>
-    <h3>University of British Columbia</h3>
+    <h3 className = "blue">University of British Columbia</h3>
     <li>Combined major in business and computer science (BUCS)
     <p>Sep 2020 - May 2025</p> </li>
     <br></br>
@@ -44,7 +43,7 @@ return (
     </div>
     </Grid>
     </Grid>
-    </Paper>
+   
     </Box>
     
 );

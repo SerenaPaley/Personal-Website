@@ -8,12 +8,12 @@ import Pic from './redDice.jpeg';
 
 
 
-function WordUp() {
+function CheeryCherries() {
 
 return (
     
-    <Box p = {1} borderRadius = {16} height = "100%" >
-        
+    <Box p = {1} borderRadius = {16} height = {300} height = "100%">
+       
         <Grid container justifyContent="center"   >
     
     <Grid container item xs={6} justifyContent="center" >
@@ -25,11 +25,13 @@ return (
     </Grid>
     <Grid item xs={6} justifyContent="flex-start">
     <div>
-    <h3 className= "blue">WordUp</h3>
+    <h3 className= "blue">Cheery Cherries</h3>
     <br></br>
-    <h3> Personal Project - WordUp</h3>
-    <li> Built a hangman style game in Python and used getpass to ensure the mystery word remains secret.
-    <p>March 2021</p> </li>
+    <h3> Gr. 12 Final Project - Cheery Cherries Video Game</h3>
+    <li> Engineered a 2D platformer game using Unity and C#, with a partner.
+    <li> Implemented movement controls, level design, and physics parameters.</li>
+    <li> Created animations using sprite sheets for jumping, idling, and falling.</li>  
+    <p>June 2020</p> </li>
     
     </div>
     </Grid>
@@ -42,4 +44,4 @@ return (
 }
 
 
-export default WordUp;
+export default CheeryCherries;
