@@ -4,7 +4,7 @@ import "./App.css";
 function Serena() {
     return (
         <div className= "serena">
-        <h1> Hi I'm Serena Paley</h1>
+        <h1> Hi I'm Serena</h1>
         </div>
     );
     

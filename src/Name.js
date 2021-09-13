@@ -29,7 +29,7 @@ function Name() {
 
             <Grid item xs={6}>
             <Box pb = {10} textAlign = "center" >
-             <img src={Pic} alt = "picture" className = "profilePic"/> 
+             <img src={Pic} alt = "picture" variant = "rounded" className = "profilePic"/> 
              </Box>
              </Grid>
 

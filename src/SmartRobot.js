@@ -4,7 +4,7 @@ import Box from '@material-ui/core/Box';
 import Paper from '@material-ui/core/Paper';
 import Grid from '@material-ui/core/Grid';
 import Avatar from '@material-ui/core/Avatar';
-import Pic from './Shad.png';
+import Pic from './Shad Logo.png';
 
 
 
@@ -31,6 +31,8 @@ return (
     <li> Programmed a robot to differentiate between black and white to follow a line, using an ultrasonic sensor.
     <li> Incorporated direction decision making when approaching an intersection.</li>
     <p>July 2019</p> </li>
+    <br></br>
+    <br></br>
     
     </div>
     </Grid>

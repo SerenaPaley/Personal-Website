@@ -19,6 +19,7 @@ function App() {
      <Education />
      <h2 className = "title">Projects</h2>
      <Projects />
+     <h2 className = "title">Work Experience</h2>
      <WorkExperience />
 
    </div>

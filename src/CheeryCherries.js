@@ -4,7 +4,7 @@ import Box from '@material-ui/core/Box';
 import Paper from '@material-ui/core/Paper';
 import Grid from '@material-ui/core/Grid';
 import Avatar from '@material-ui/core/Avatar';
-import Pic from './redDice.jpeg';
+import Pic from './Fox.png';
 
 
 
@@ -18,7 +18,7 @@ return (
     
     <Grid container item xs={6} justifyContent="center" >
     <div> 
-    <Box display="flex" pt = {4}  > <Avatar pt = {3} variant = "rounded" style={{ height: '110px', width: '110px' }} alt="UBC logo" src={Pic} className={Pic.large} />
+    <Box display="flex" pt = {4}  > <Avatar pt = {3}  style={{ height: '110px', width: '110px' }} alt="UBC logo" src={Pic} className={Pic.large} />
     </Box>
     
     </div>
