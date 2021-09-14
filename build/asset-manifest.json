@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Personal-Website/static/css/main.8098c0c4.chunk.css",
+    "main.js": "/Personal-Website/static/js/main.b5ce439e.chunk.js",
+    "main.js.map": "/Personal-Website/static/js/main.b5ce439e.chunk.js.map",
+    "runtime-main.js": "/Personal-Website/static/js/runtime-main.f9d9d0fd.js",
+    "runtime-main.js.map": "/Personal-Website/static/js/runtime-main.f9d9d0fd.js.map",
+    "static/js/2.0f43776c.chunk.js": "/Personal-Website/static/js/2.0f43776c.chunk.js",
+    "static/js/2.0f43776c.chunk.js.map": "/Personal-Website/static/js/2.0f43776c.chunk.js.map",
+    "index.html": "/Personal-Website/index.html",
+    "static/css/main.8098c0c4.chunk.css.map": "/Personal-Website/static/css/main.8098c0c4.chunk.css.map",
+    "static/js/2.0f43776c.chunk.js.LICENSE.txt": "/Personal-Website/static/js/2.0f43776c.chunk.js.LICENSE.txt",
+    "static/media/Fox.e4cceed9.png": "/Personal-Website/static/media/Fox.e4cceed9.png",
+    "static/media/SerenaPark3.e2bdc279.jpeg": "/Personal-Website/static/media/SerenaPark3.e2bdc279.jpeg",
+    "static/media/Shad Logo.2dc17ab4.png": "/Personal-Website/static/media/Shad Logo.2dc17ab4.png",
+    "static/media/UBCLogoWhite.28cfab2e.jpeg": "/Personal-Website/static/media/UBCLogoWhite.28cfab2e.jpeg",
+    "static/media/WordUp Pic.daca9344.png": "/Personal-Website/static/media/WordUp Pic.daca9344.png",
+    "static/media/redDice.44db70f2.jpeg": "/Personal-Website/static/media/redDice.44db70f2.jpeg",
+    "static/media/strive.4a1e97b9.gif": "/Personal-Website/static/media/strive.4a1e97b9.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9d9d0fd.js",
+    "static/js/2.0f43776c.chunk.js",
+    "static/css/main.8098c0c4.chunk.css",
+    "static/js/main.b5ce439e.chunk.js"
+  ]
+}
